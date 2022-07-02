@@ -1,0 +1,18 @@
+{
+    "RainbowBrackets.colorMode": "Consecutive",
+    "RainbowBrackets.consecutivePairColors": [
+
+        "()",
+        "[]",
+        "{}",
+        [
+            "teal",
+            "yellow",
+            "tomato"
+        ],
+        "Revioletd"
+    ],
+    "cSpell.words": [
+        "jagstang"
+    ]
+}
